@@ -1,0 +1,108 @@
+body {
+  background-color: #FAFAFA;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+body main {
+  text-align: center;
+  background-color: #ffffff;
+  width: 350px;
+  margin: 50px auto 10px auto;
+  padding: 25px 0;
+  border: 1px solid #d6d6d6;
+}
+
+body main .logo {
+  width: 175px;
+  margin-bottom: 20px;
+}
+
+body main form {
+  display: block;
+  margin: 0 auto;
+  width: 270px;
+}
+
+body main form input {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: block;
+  width: 270px;
+  height: 36px;
+  margin-bottom: 8px;
+  border-radius: 3px;
+}
+
+body main form #username, body main form #password {
+  font-size: 12px;
+  height: 40px;
+  border: 1px solid #d6d6d6;
+  background-color: #FAFAFA;
+  padding: 8px;
+}
+
+body main form #submit {
+  color: #fff;
+  font-weight: 600;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  background-color: rgba(39, 152, 248, 0.4);
+  border: none;
+}
+
+body main .divider {
+  height: 15px;
+  margin: 10px 0 20px 0;
+}
+
+body main .divider p {
+  color: gray;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+body main a {
+  color: inherit;
+  display: block;
+  text-decoration: none;
+}
+
+body main .facebook-login {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+body main .forgot-password {
+  font-size: 12px;
+}
+
+body .signup {
+  text-align: center;
+  background-color: #ffffff;
+  margin: 0 auto;
+  width: 350px;
+  padding: 10px 0;
+  border: 1px solid #d6d6d6;
+}
+
+body .signup p a {
+  font-weight: 600;
+  text-decoration: none;
+  color: #2798F8;
+}
+
+body .get-app {
+  text-align: center;
+  margin: 20px 0;
+}
+
+body .get-app p {
+  margin-bottom: 20px;
+}
+
+body .get-app img {
+  height: 40px;
+}
+/*# sourceMappingURL=style.css.map */
